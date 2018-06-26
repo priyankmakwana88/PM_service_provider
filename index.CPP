@@ -1,5 +1,5 @@
 	/*PROGRAM NAME:PM SERVICE PROVIDER
-	  MADE BY     :PRIYANK MAKWANA AND MEHUL RAJ KUMAWAT
+	  MADE BY     :PRIYANK MAKWANA
 	  CLASS       :XII SCIENCE D*/
 #include<iostream.h>
 #include<iomanip.h>
@@ -142,7 +142,7 @@ cout<<"\n\n
   break;
    case 2:
    clrscr();
-cout<<"\n\n\n\n§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§\n";
+cout<<"\n\n\n\nÂ§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§\n";
 cout<<"\n\n                            .....FESTIVAL OFFERS.....\n";
 cout<<"\n\n\n-------------------------------------------------------------------------------\n";
 cout<<"\n\n\n * Ek Pe Ek Offers : Hello Tunes , Astrology on demand , Mirchi Mobile,";
@@ -156,7 +156,7 @@ cout<<"\n\n     to 30th November, 2010. The free offers include 100 mins to any 
 cout<<"\n\n     Airtel mobile phone, 100 sms to any Local mobile and 500 MB of data usage." ;
 cout<<"\n\n     This offer is open for all tariff plans.";
 cout<<"\n\n\n * Sawal 10 Lakh ka contest : dial 5670330 (toll-free) or SMS ACT LAKH to 111.\n";
-cout<<"\n\n\n§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§";
+cout<<"\n\n\nÂ§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§Â§";
   getch();
   goto b1;   //JUMP STATEMENT
   break;
@@ -228,7 +228,7 @@ cout<<"\n\n\n *  GPRS extends the GSM circuit switched data capabilities and giv
 cout<<"\n\n    -> 'Always on' internet access"                                                 ;
 cout<<"\n\n    -> Multimedia messaging service (MMS)"                                         ;
 cout<<"\n\n    -> Push to talk over cellular (PoC/PTT)"                                      ;
-cout<<"\n\n    -> Instant messaging and presence—wireless village"                          ;
+cout<<"\n\n    -> Instant messaging and presenceÂ—wireless village"                          ;
 cout<<"\n\n    -> Internet applications for smart devices through WAP"                     ;
 cout<<"\n\n    -> Point-to-point (P2P) service: inter-networking with the Internet (IP)";
 cout<<"\n\n\n\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++";
@@ -285,17 +285,17 @@ getch();
  for(i=5;i<75;i++)  //USE OF FOR-LOOP FOR BILL-PRINTING
  {
   gotoxy(i,2);
-  cout<<"ß";
+  cout<<"ÃŸ";
  }
  for(i=5;i<75;i++)
  {
  gotoxy(i,49);
- cout<<"ß";
+ cout<<"ÃŸ";
  }
  for(i=2;i<50;i++)
  {
  gotoxy(76,i);
- cout<<"ß ß ";
+ cout<<"ÃŸ ÃŸ ";
  }
  for(i=6;i<75;i++)
  {
@@ -349,7 +349,7 @@ getch();
  for(i=2;i<50;i++)
  {
  gotoxy(2,i);
- cout<<"ß ß ";
+ cout<<"ÃŸ ÃŸ ";
  }
  gotoxy(29,10);
  gets(cn);
@@ -668,26 +668,26 @@ void std()//START OF STD FUNCTION
  cout<<"\n\t\t\t    ------------------ ";
  cout<<"\n\n\t\t\t CITIES           STD CODES ";
  cout<<"\n\t\t\t ------           --------- ";
- cout<<"\n\n\t\t\t1.AHEMDABAD   ®     0272  ";
- cout<<"\n\n\t\t\t2.AJMER       ®	    0145  ";
- cout<<"\n\n\t\t\t3.ALLAHABAD   ®	    0532  ";
- cout<<"\n\n\t\t\t4.BARODA      ®	    0265  ";
- cout<<"\n\n\t\t\t5.BHATINDA    ®	    0614  ";
- cout<<"\n\n\t\t\t6.BHOPAL      ®	    0755  ";
- cout<<"\n\n\t\t\t7.CALCUTTA    ®	    0145  ";
- cout<<"\n\n\t\t\t8.JAIPUR      ®	    0145  ";
- cout<<"\n\n\t\t\t9.KANPUR      ®	    0512  ";
- cout<<"\n\n\t\t\t10.LUCKNOW    ®	    0522  ";
- cout<<"\n\n\t\t\t11.MOHALI     ®	    0172  ";
- cout<<"\n\n\t\t\t12.MYSORE     ®     0821  ";
- cout<<"\n\n\t\t\t13.NEW DELHI  ®	    011  ";
- cout<<"\n\n\t\t\t14.PATNA      ®     0612  ";
- cout<<"\n\n\t\t\t15.PUNE       ®     0212  ";
- cout<<"\n\n\t\t\t16.RAIPUR     ®     0771  ";
- cout<<"\n\n\t\t\t17.SURAT      ®	    0261  ";
- cout<<"\n\n\t\t\t18.UDAIPUR    ®	    0294  ";
- cout<<"\n\n\t\t\t19.UJJAIN     ®	    0734  ";
- cout<<"\n\n\t\t\t20.VELLORE    ®     0416  ";
+ cout<<"\n\n\t\t\t1.AHEMDABAD   Â®     0272  ";
+ cout<<"\n\n\t\t\t2.AJMER       Â®	    0145  ";
+ cout<<"\n\n\t\t\t3.ALLAHABAD   Â®	    0532  ";
+ cout<<"\n\n\t\t\t4.BARODA      Â®	    0265  ";
+ cout<<"\n\n\t\t\t5.BHATINDA    Â®	    0614  ";
+ cout<<"\n\n\t\t\t6.BHOPAL      Â®	    0755  ";
+ cout<<"\n\n\t\t\t7.CALCUTTA    Â®	    0145  ";
+ cout<<"\n\n\t\t\t8.JAIPUR      Â®	    0145  ";
+ cout<<"\n\n\t\t\t9.KANPUR      Â®	    0512  ";
+ cout<<"\n\n\t\t\t10.LUCKNOW    Â®	    0522  ";
+ cout<<"\n\n\t\t\t11.MOHALI     Â®	    0172  ";
+ cout<<"\n\n\t\t\t12.MYSORE     Â®     0821  ";
+ cout<<"\n\n\t\t\t13.NEW DELHI  Â®	    011  ";
+ cout<<"\n\n\t\t\t14.PATNA      Â®     0612  ";
+ cout<<"\n\n\t\t\t15.PUNE       Â®     0212  ";
+ cout<<"\n\n\t\t\t16.RAIPUR     Â®     0771  ";
+ cout<<"\n\n\t\t\t17.SURAT      Â®	    0261  ";
+ cout<<"\n\n\t\t\t18.UDAIPUR    Â®	    0294  ";
+ cout<<"\n\n\t\t\t19.UJJAIN     Â®	    0734  ";
+ cout<<"\n\n\t\t\t20.VELLORE    Â®     0416  ";
  getch();
  }//END OF STD FUNCTION
 
@@ -697,17 +697,17 @@ void exit1() //START OF EXIT FUNCTION
  for(i=4;i<74;i++)  //BORDER DESIGNING
  {
  gotoxy(i,4);
- cout<<"ß";
+ cout<<"ÃŸ";
  }
  for(i=4;i<74;i++)
  {
  gotoxy(i,23);
- cout<<"ß";
+ cout<<"ÃŸ";
  }
  for(i=4;i<24;i++)
  {
  gotoxy(75,i);
- cout<<"ß ß ";
+ cout<<"ÃŸ ÃŸ ";
  }
  for(i=21;i<55;i++)
  {
@@ -736,7 +736,7 @@ void exit1() //START OF EXIT FUNCTION
  for(i=4;i<24;i++)
  {
  gotoxy(4,i);
- cout<<"ß ß ";
+ cout<<"ÃŸ ÃŸ ";
  }
  getch();
  } //end of exit function
